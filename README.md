@@ -19,6 +19,9 @@ OOP Principles
 Object-Oriented Programming concepts:
 
 Abstraction: Used in the Salary class to abstract the concept of salary and expenses.
+
 Encapsulation: Sensitive data such as salary and expenses are kept private and accessed through getter and setter methods.
+
 Polymorphism: Implemented by allowing subclasses like EmployeeSalary to provide specific functionality for tracking online expenses.
+
 Inheritance: Inheritance used in EmployeeSalary class to fetch all details of Salary class. 
