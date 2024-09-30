@@ -95,7 +95,7 @@ class SIPCalculator {
     }
     
     public double calculateExcessExpenditure() {
-    	double ideal = salary.getSalary()*0.4;
+    	double ideal = salary.getSalary()*0.2;
     	
     	if (ideal<salary.totalExpenses) {
     		monthlyInvestment = salary.totalExpenses-ideal;
